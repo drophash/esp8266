@@ -3,7 +3,7 @@
 
 ESP8266WebServer server;
 uint8_t pin_led = 16;
-char* ssid = "Smartbro"
+char* ssid = "Xnow"
 char* pass = "$m4rtbr0"
 
 void setup(){
