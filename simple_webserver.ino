@@ -1,10 +1,16 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
-
 ESP8266WebServer server;
+
+/*
+	Base Station + Access Point Setup (Mesh Network or WISP), For more Info.
+	Contact me on Facebook: https://www.facebook.com/100011369547476
+	Contact me via Mobile: 09225205353 (Sun Cellular)
+*/
+
 uint8_t pin_led = 16;
-char* ssid = "Xnow"
-char* pass = "$m4rtbr0"
+char* ssid = "Xnow's Access Point"
+char* pass = "$1$8t2aFHA/$DRuYhor4Vivci3TiO.5y1/"
 
 void setup(){
 	pinMode(pin_led,OUTPUT);
