@@ -1,7 +1,3 @@
-#include <ESP8266WiFi.h>
-#include <ESP8266WebServer.h>
-ESP8266WebServer server;
-
 /*
 	Base Station + Access Point Setup (Mesh Network or WISP), For more Info.
 	Contact me on Facebook: https://www.facebook.com/100011369547476
