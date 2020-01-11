@@ -1,8 +1,7 @@
 ---
-title: transcendence
-layout: default
+title: Kirsten Greed
+description: Cognitive Load
 ---
 
-<title>Xin Snowflakes</title>
 <code>Hello World! I am Xin Snowflakes!</code>
 <code>Contact Number: 09225205353</code>
