@@ -1,6 +1,6 @@
 ---
-title: Hello
+title: default
 layout: default
 ---
 
-Hello
+Hello World!
