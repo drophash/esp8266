@@ -3,4 +3,5 @@ title: transcendence
 layout: default
 ---
 
-Hello World! I am Xin Snowflakes!
+<title>Xin Snowflakes</title>
+<code>Hello World! I am Xin Snowflakes!</code>
